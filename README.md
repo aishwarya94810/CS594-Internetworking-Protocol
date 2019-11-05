@@ -1,3 +1,4 @@
-# CS594:Internetworking Protocal
+# Internet Relay Chat Application 
 
-Internet Relay Chat(IRC) project from the Internetworking Protocal class in Portland State University(Spring '18)
+Internet Relay Chat(IRC) project from the Networking Course 
+
